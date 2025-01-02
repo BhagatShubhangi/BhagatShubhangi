@@ -4,7 +4,7 @@
 <h3 align="center">An Aspiring Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-with-cms_52683-23279.jpg?t=st=1719135131~exp=1719138731~hmac=ddbc99726c2d3129e8585a66316f9112814d5ba7290bd2a24be7ff5ed0fe2592&w=740">
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **shubhangibhagat004@gmail.com**
 
