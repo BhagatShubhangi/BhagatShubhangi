@@ -25,78 +25,112 @@
   - 🚀 Always exploring new technologies
   - 💡 Looking to collaborate on **open source projects**
   - 📫 Reach me at: **shubhangibhagat004@gmail.com**
-  - ⚡ Fun fact: **Code is poetry written for machines and humans alike**
 </div>
 
 ---
 
-<!-- Tech Stack Section with Animations -->
-<h2 align="center">🛠️ Languages and Tools</h2>
 
-<div align="center">
-  
+<!-- Tech Stack Section with Left-Aligned Animated Button-Style Icons -->
+<h2 align="left">🛠️ My Tech Stack</h2>
+
+<div>
   <!-- Languages -->
-  <h3>Programming Languages</h3>
-  <p>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+  <h3 align="left">Languages</h3>
+  <p align="left">
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </a>
   </p>
   
-  <!-- Frontend Development -->
-  <h3>Frontend Development</h3>
-  <p>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <!-- Frameworks -->
+  <h3 align="left">Frameworks</h3>
+  <p align="left">
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </a>
   </p>
   
-  <!-- Database and Tools -->
-  <h3>Database & Tools</h3>
-  <p>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <!-- Libraries -->
+  <h3 align="left">Libraries</h3>
+  <p align="left">
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
     </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
+  </p>
+  
+  <!-- Tools -->
+  <h3 align="left">Tools</h3>
+  <p align="left">
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
   </p>
 </div>
-
----
 
 <!-- Connect with me Section with Style -->
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center">
+<h2 align="left">🌐 Connect With Me</h2>
+<p align="left">
   <a href="https://www.linkedin.com/in/shubhangi-bhagat-21501a2ab/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubhangi-bhagat" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubhangi-bhagat" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shubhangibhagat004@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/bhagatshubhangi">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
 
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
