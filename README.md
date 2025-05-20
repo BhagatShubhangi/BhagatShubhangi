@@ -153,11 +153,3 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
-
----
-
-<div align="center">
-  
-  ### 🚀 Show some ❤️ by starring some of the repositories!
-  
-</div>
