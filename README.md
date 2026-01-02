@@ -21,7 +21,7 @@
   
   ### 💫 About Me:
   - 🔭 I'm passionate about building **innovative solutions**
-  - 🌱 I'm currently learning **Machine Learning**
+  - 🌱 I'm currently learning **NLP**
   - 🚀 Always exploring new technologies
   - 💡 Looking to collaborate on **open source projects**
   - 📫 Reach me at: **shubhangibhagat004@gmail.com**
