@@ -133,22 +133,21 @@
 
 
 <!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagatshubhangi&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Shubhangi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatshubhangi&theme=tokyonight&hide_border=true" width="49%" alt="Shubhangi's GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhagatshubhangi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhagatshubhangi&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatshubhangi&layout=compact&theme=tokyonight&hide_border=true" alt="Shubhangi's Most Used Languages" />
-</div>
-
----
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatshubhangi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 <!-- Footer Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
